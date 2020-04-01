@@ -10,6 +10,10 @@ Stryker.NET can be installed using NuGet as a dotnet core global tool:
 
 `dotnet tool install -g dotnet-stryker`
 
+## Usage
+
+Run `dotnet stryker` in tests project folder
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/cryoland/mutationtesting/blob/master/LICENSE) file for details.
